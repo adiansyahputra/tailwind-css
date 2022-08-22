@@ -1,0 +1,53 @@
+TailwindCSS 
+A utility-first css framework that packed with classes 
+Rapidly build modern websites without ever leaving your HTML
+
+Utilities 
+-Preflight 
+-Layout 
+-Flexbox & Grid 
+-Spacing & Sizing 
+-Typography 
+-Background & Borders 
+-Effect & Filters 
+-Transition, Transformation & Animation 
+-Tables 
+
+Features 
+-Interactivity 
+-Responsive Design 
+-Dark Mode 
+-Reusability 
+-Custom Styles 
+-Functions & Directives 
+
+Interactivity 
+-Pseudo-classes: hover, focus, active, first, last, ... 
+-Pseudo-element: before, after, placeholder, file, selection, ... 
+
+UI Frameworks 
+-Bootstrap 
+-Material UI 
+-Foundation 
+-Semantic UI 
+-Bulma 
+-... 
+
+Utility-first Frameworks 
+-Tailwind CSS 
+-Tachyons 
+-Shed.css 
+-Basscss 
+-Expressive CSS 
+
+Vanilla CSS
++: Kendali penuh, Code CSS lebih optimal* 
+-: Buat semuanya dari awal, Pembuatan lebih lama 
+
+Bootstrap 5 
++: Pembuatan sangat cepat, Sangat ramah untuk pemula, Komponen siap untuk digunakan 
+-: tidak ada kendali, banyak code css tidak terpakai, website terlihat mirip 
+
+TailwindCSS 3 
++: Pembuatan lebih cepat*, Mengikuti best practices, Code CSS optimal 
+-: Code HTML menjadi 'jelek'
