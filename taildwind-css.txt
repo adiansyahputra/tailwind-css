@@ -9,3 +9,8 @@ npx tailwindcss -i ./src/css/input.css -o ./public/css/style.css --watch
 npm run dev
 
 npx tailwindcss -o ./public/css/final.css --minify
+
+node -v16 
+npm i tailwindcss
+
+"dev": "tailwindcss -i ./tailwindcss.css -o ./style.css --watch"
